@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77597375190",
+    "project_id": "reach-us-2165e",
+    "storage_bucket": "reach-us-2165e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77597375190:android:c69b81a5539d88669a6777",
+        "android_client_info": {
+          "package_name": "com.abhishek.home_reachus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77597375190-15o3m1mn66ttjqi6aejk6eqaq737vpfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8g5kdpJQk4FAnDeBNZgoQQBVhsTiVKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77597375190-15o3m1mn66ttjqi6aejk6eqaq737vpfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
