@@ -26,7 +26,7 @@ class _CryInfoState extends State<CryInfo> {
                           borderRadius: BorderRadius.circular(30.0),
                           image: DecorationImage(
                               image: NetworkImage(
-                                  "https://scontent.fbho4-1.fna.fbcdn.net/v/t1.6435-9/155364906_10157549901001949_8145561909103406683_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=973b4a&_nc_ohc=8RjMqi8mFVcAX8KTZ1i&_nc_ht=scontent.fbho4-1.fna&oh=4e16c147775e0a23ee120a59f3d226a0&oe=617ECF49"),
+                                  "https://pbs.twimg.com/profile_images/1343879794317008901/JNmSq5JF_400x400.png"),
                               fit: BoxFit.fill),
                         ))
                   ],

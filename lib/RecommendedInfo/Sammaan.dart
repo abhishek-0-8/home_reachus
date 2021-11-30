@@ -26,7 +26,7 @@ class _SammaanInfoState extends State<SammaanInfo> {
                           borderRadius: BorderRadius.circular(30.0),
                           image: DecorationImage(
                               image: NetworkImage(
-                                  "https://scontent.fbho4-2.fna.fbcdn.net/v/t1.18169-9/14192083_1082294095159625_7521068007188289193_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=973b4a&_nc_ohc=Byrpztjn0tMAX9tEU9i&_nc_ht=scontent.fbho4-2.fna&oh=b32bfe4196f2870ee5f95c541c8bb982&oe=6180B38B"),
+                                  "https://www.bing.com/th?id=AWVuaOC4MmS1b7Q480x360&w=316&h=180&rs=1&qlt=90&o=6&pid=3.1&rm=2"),
                               fit: BoxFit.fill),
                         ))
                   ],

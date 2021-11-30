@@ -26,7 +26,7 @@ class _NanhiInfoState extends State<NanhiInfo> {
                           borderRadius: BorderRadius.circular(30.0),
                           image: DecorationImage(
                               image: NetworkImage(
-                                  "https://scontent.fbho4-1.fna.fbcdn.net/v/t39.30808-6/224515572_4537354046331268_1890914475309023870_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=gmPIy_YxkusAX_j1kPI&_nc_ht=scontent.fbho4-1.fna&oh=8138a85bdf63eaa31fb10b514833a952&oe=615DB074"),
+                                  "https://digitallearning.eletsonline.com/wp-content/uploads/2016/04/nanni-kali.jpg"),
                               fit: BoxFit.fill),
                         ))
                   ],

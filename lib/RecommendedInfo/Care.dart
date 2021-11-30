@@ -26,7 +26,7 @@ class _CareInfoState extends State<CareInfo> {
                           borderRadius: BorderRadius.circular(30.0),
                           image: DecorationImage(
                               image: NetworkImage(
-                                  "https://scontent.fbho4-2.fna.fbcdn.net/v/t1.6435-9/238596558_10165939245820624_3639953944014755614_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lfa1RH4rUacAX_u-FKV&_nc_ht=scontent.fbho4-2.fna&oh=1f18fc1da2b6c9545b088c5699e6f8a5&oe=617D6F10"),
+                                  "https://scontent.fbho1-1.fna.fbcdn.net/v/t1.6435-9/p206x206/78623385_10162922569435624_4292321853843701760_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CY_QRGppU08AX-PlBvr&_nc_ht=scontent.fbho1-1.fna&oh=deab1d66bd4c5c49710676ad665cdeb7&oe=61C9F10E"),
                               fit: BoxFit.fill),
                         ))
                   ],
