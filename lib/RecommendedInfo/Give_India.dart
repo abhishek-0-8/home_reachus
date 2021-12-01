@@ -26,7 +26,7 @@ class _GiveInfoState extends State<GiveInfo> {
                           borderRadius: BorderRadius.circular(30.0),
                           image: DecorationImage(
                               image: NetworkImage(
-                                  "https://scontent.fbho4-2.fna.fbcdn.net/v/t1.6435-9/240861947_10157892952662102_5469177983803915845_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=973b4a&_nc_ohc=Q4zdsQM7Hv0AX9QINac&_nc_ht=scontent.fbho4-2.fna&oh=b13cfbca10864195ab3dbfce7dfdf809&oe=617F7355"),
+                                  "https://pbs.twimg.com/profile_images/1169484985549516800/KD0PK4XE_400x400.jpg"),
                               fit: BoxFit.fill),
                         ))
                   ],
